@@ -1,9 +1,10 @@
+package com.seb.main;
 
 public class MessagePrinter {
 
 	 MessagePrinter() {
 		this.message = "I can has Cheezburger!";
-		System.out.println("created default MessagePrinter");
+		System.out.println("created the default MessagePrinter");
 	}
 	
 	MessagePrinter(String myMessage) {
