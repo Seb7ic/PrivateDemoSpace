@@ -8,7 +8,7 @@ public class MessagePrinter {
 	
 	MessagePrinter(String myMessage) {
 		this.message = myMessage;
-		System.out.println("created individual MessagePrinter");
+		System.out.println("created my individual MessagePrinter");
 	}
 	
 	public void printMessage() {
