@@ -1,3 +1,4 @@
+package com.seb.main;
 
 public class MessagePrinter {
 
