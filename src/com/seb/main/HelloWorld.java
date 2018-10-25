@@ -8,9 +8,7 @@ public class HelloWorld {
 		
 		MessagePrinter ownMsgPrntr = new MessagePrinter("I'm awesome!");
 		ownMsgPrntr.printMessage();
-		
-		MessagePrinter anotherMsgPrntr = new MessagePrinter("I'm even better!");
-		anotherMsgPrntr.printMessage();
+
 	}
 
 }
